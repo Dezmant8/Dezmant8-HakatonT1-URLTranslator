@@ -22,7 +22,7 @@
 ## Авторы
 
 - [@Darkness](https://www.github.com/71darkness17) - Encoder
-- [@Desmant8](https://www.github.com/Dezmat8) - Decoder
+- [@Dezmant8](https://www.github.com/Dezmat8) - Decoder
 - [@zipi64]() - Frontend
 - [@dmitriyz1024]() - Signal Engineer/Decoder
 
