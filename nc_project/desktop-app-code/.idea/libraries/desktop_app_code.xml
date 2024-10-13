@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="desktop-app-code">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JTransforms-3.1-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTransforms-3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/App.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTransforms-3.1-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
